@@ -1,0 +1,14 @@
+This solution reads the input, calculates the RPI rating for each team using the formula provided in the problem statement, and outputs the results in the required format.
+
+The input format for the problem is as follows:
+
+The first line contains an integer T, the number of test cases.
+The following T lines each represent a test case, and contain the following:
+An integer N, the number of teams in the league.
+N lines, each containing two integers w and l, representing the number of wins and losses for a particular team.
+The output format for the problem is as follows:
+
+T lines, each representing a test case and containing the following:
+The string "Case #x:", where x is the test case number (starting from 1).
+N space-separated values, representing the RPI ratings of the teams in the league.
+I hope this helps! Let me know if you have any questions.
